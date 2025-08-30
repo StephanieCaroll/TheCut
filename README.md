@@ -1,73 +1,24 @@
-# Welcome to your Lovable project
+# 💈 Barbearia Virtual
+Este repositório contém o código-fonte de um site de barbearia virtual, onde os usuários podem explorar os serviços, visualizar o portfólio de cortes e ter uma experiência digital moderna. O objetivo é criar uma presença online elegante e funcional para a barbearia.
 
-## Project info
+## 🌟 Sobre o Projeto
+O site da barbearia foi desenvolvido para ser uma vitrine digital, apresentando o trabalho dos profissionais e os serviços oferecidos com um design atraente e intuitivo.
 
-**URL**: https://lovable.dev/projects/c45600ea-e9d4-4de2-9d3d-7c9a2834f75f
+### Funcionalidades Principais:
+- **Visualização de Serviços**: Exibe uma lista de serviços (corte de cabelo, barba, etc.) com preços e descrições. 
 
-## How can I edit this code?
+- **Galeria de Portfólio**: Mostra fotos de alta qualidade de trabalhos realizados, servindo como inspiração para os clientes.
 
-There are several ways of editing your application.
+- **Design Responsivo**: O layout se adapta perfeitamente a diferentes tamanhos de tela, desde desktops até smartphones.
 
-**Use Lovable**
+## 🤝 Contribuições
+Sinta-se à vontade para contribuir com este repositório! <br>
+💡 Sugira novas funcionalidades.<br>
+🐛 Relate bugs ou problemas.<br>
+📸 Adicione fotos ao portfólio.<br>
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c45600ea-e9d4-4de2-9d3d-7c9a2834f75f) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c45600ea-e9d4-4de2-9d3d-7c9a2834f75f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## 📬 Contato
+Autor: [Seu Nome] <br>
+E-mail: [Seu E-mail] <br>
+LinkedIn: [Seu LinkedIn] <br>
+GitHub: [Seu GitHub] <br>
