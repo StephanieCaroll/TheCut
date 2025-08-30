@@ -21,4 +21,4 @@ Sinta-se à vontade para contribuir com este repositório! <br>
 Autor: Stephanie Caroline <br>
 E-mail: stephaniecarolinedev@gmail.com <br>
 LinkedIn: linkedin.com/in/stephanie-caroline-97973430b <br>
-GitHub: (https://github.com/StephanieCaroll) <br>
+GitHub: https://github.com/StephanieCaroll <br>
