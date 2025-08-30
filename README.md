@@ -18,7 +18,7 @@ Sinta-se à vontade para contribuir com este repositório! <br>
 📸 Adicione fotos ao portfólio.<br>
 
 ## 📬 Contato
-Autor: [Seu Nome] <br>
-E-mail: [Seu E-mail] <br>
-LinkedIn: [Seu LinkedIn] <br>
-GitHub: [Seu GitHub] <br>
+Autor: Stephanie Caroline <br>
+E-mail: stephaniecarolinedev@gmail.com <br>
+LinkedIn: linkedin.com/in/stephanie-caroline-97973430b <br>
+GitHub: (https://github.com/StephanieCaroll) <br>
